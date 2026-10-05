@@ -46,9 +46,9 @@ Below is a curated comparison of major commercial photo viewing, cloud storage, 
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source photo viewers and self-hosted managers provide full data privacy, customizable workflows, and self-sovereignty. Below is a curated list of top open-source projects sorted by **GitHub Star Count** (descending).
+Open-source photo viewers and self-hosted managers provide full data privacy, customizable workflows, and self-sovereignty. Below is a curated list of top open-source projects sorted by **GitHub Stars_Count** (descending).
 
-| Project Name | Stars | License | Key Features & Target Use Case |
+| Project Name | GitHub_Stars | License | Key Features & Target Use Case |
 | :--- | :--- | :--- | :--- |
 | ⚡ **[Immich](https://github.com/immich-app/immich)** | [![Immich Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers) | AGPL-3.0 | High-performance self-hosted backup & management solution with facial recognition, object detection, and mobile apps (Google Photos alternative). |
 | 📸 **[PhotoPrism](https://github.com/photoprism/photoprism)** | [![PhotoPrism Stars](https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white)](https://github.com/photoprism/photoprism/stargazers) | AGPL-3.0 | AI-powered Web-based photo app for browsing, organizing, and sharing image collections powered by TensorFlow. |
@@ -82,7 +82,7 @@ Contributions are warmly welcomed! Help us keep this curated list complete and u
 
 1. **Fork** this repository.
 2. Add your suggested photo viewer, SaaS platform, or open-source software to `README.md`.
-3. Ensure open-source projects include star badges linked directly to their `/stargazers` page.
+3. Ensure open-source projects include Stars_Badges linked directly to their `/stargazers` page.
 4. Submit a **Pull Request** with a brief summary of the added project.
 
 ---
