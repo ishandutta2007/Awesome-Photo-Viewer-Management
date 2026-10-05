@@ -1,255 +1,116 @@
-# Awesome-Photo-Viewer-Management
+# 📸 Awesome Photo Viewer & Management Ecosystem 🚀
 
-## Top Photo Viewer & Management Ecosystem
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](README.md#how-to-contribute) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
+A comprehensive, curated guide to top commercial **SaaS platforms** and **open-source projects** for photo viewing, digital asset management (DAM), RAW processing, and image library organization.
 
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Image Browsing, Photo Library Management & RAW Processing*  
-
-**Last updated: October 2026**
-
-
-
-This repository tracks notable **commercial photo viewers and managers** and **open-source projects** that help users browse, organize, edit, and manage image collections — from simple lightweight viewers to full digital asset management systems with AI-powered features.
-
-
-
-**Examples** include Windows Photos, Google Photos, Apple Photos, Adobe Lightroom, IrfanView, ACDSee, FastStone Image Viewer, DigiKam, XnView, and Mylio Photos (the category leaders).
-
-
-
-**Open-source emphasis**: Photo management is a strong open-source domain. **DigiKam** leads as the most comprehensive open-source photo manager with professional-grade features. **XnView MP** provides the best format support, **Nomacs** delivers a lightweight cross-platform viewer, and **ImageGlass** offers a modern Windows experience. **Immich** and **PhotoPrism** bring AI-powered self-hosted alternatives to Google Photos. This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Google Photos](https://photos.google.com/)**  
-
-  **The most popular cloud photo service** — unlimited storage (compressed), AI-powered search, automatic organization, and sharing. **Free tier with limits**; Google One for full resolution. **The best cloud photo experience** .
-
-
-
-- **[Apple Photos](https://www.apple.com/ios/photos/)**  
-
-  **The best photo management for Apple users** — iCloud sync, Memories, Live Photos, and deep OS integration. **Free tier with 5GB**; iCloud+ for more. **The macOS/iOS standard** .
-
-
-
-- **[Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)**  
-
-  **The professional standard for photo editing and cataloging** — non-destructive editing, RAW processing, and cloud sync. **Subscription-based** ($9.99/month). **The best for serious photographers** .
-
-
-
-- **[Windows Photos](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4)**  
-
-  Microsoft's built-in photo viewer and manager. **Free and pre-installed** — best for basic viewing and simple edits.
-
-
-
-- **[IrfanView](https://www.irfanview.com/)**  
-
-  **The fastest lightweight Windows image viewer** — supports 100+ formats, batch conversion, and basic editing. **Free for personal use** . **The best quick viewer for Windows** .
-
-
-
-- **[ACDSee](https://www.acdsee.com/)**  
-
-  **Professional photo management and editing** — DAM, RAW processing, and batch editing. **One-time purchase** or subscription. **Best for professional photographers** .
-
-
-
-- **[FastStone Image Viewer](https://www.faststone.org/)**  
-
-  **Feature-rich Windows image viewer** — batch conversion, basic editing, and portable mode. **Free for personal use** . **Best for Windows users wanting a free IrfanView alternative** .
-
-
-
-- **[Mylio Photos](https://www.mylio.com/)**  
-
-  **Cross-device photo management** — sync across devices without cloud dependency. **Subscription-based** . **Best for multi-device photo libraries** .
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[DigiKam](https://github.com/KDE/digikam)**  
-
-  **The most comprehensive open-source photo manager**, GPL-2.0 licensed with **2,000+ GitHub stars** . **Professional-grade photo management** — face detection, geolocation, tagging, RAW processing (via LibRaw), batch editing, and **database-backed cataloging** . **Supports 1,000+ RAW formats** . **Cross-platform** (Windows, macOS, Linux) . **The de facto open-source Lightroom alternative** — the most feature-complete open-source photo manager . **Best for photographers managing large libraries** .
-
-
-
-- **[XnView MP](https://github.com/XnView/XnView)**  
-
-  **The most format-flexible image viewer and manager**, free (not open-source but freeware) . **Supports 500+ image formats** — the broadest format support of any viewer . **Batch conversion, metadata editing, and basic editing** . **Cross-platform** (Windows, macOS, Linux) . **The best viewer for obscure formats** . **Note**: freeware, not open-source .
-
-
-
-- **[Nomacs](https://github.com/nomacs/nomacs)**  
-
-  **Lightweight, fast open-source image viewer**, GPL-3.0 licensed with **1,500+ GitHub stars** . **Cross-platform** (Windows, macOS, Linux) . **Fast navigation, basic editing, and metadata viewing** . **The best lightweight cross-platform viewer** . **Best for quick image browsing** .
-
-
-
-- **[ImageGlass](https://github.com/d2phap/ImageGlass)**  
-
-  **Modern, open-source Windows image viewer**, GPL-3.0 licensed with **8,000+ GitHub stars** . **Beautiful UI with dark mode** — supports 80+ formats . **Fast, lightweight, and keyboard-driven** . **The best modern Windows image viewer** . **Best for Windows users wanting a modern viewer** .
-
-
-
-- **[Immich](https://github.com/immich-app/immich)**  
-
-  **Self-hosted Google Photos alternative**, AGPL-3.0 licensed with **50,000+ GitHub stars** . **AI-powered search, face recognition, and automatic backup** — runs on your own server . **Mobile apps for iOS and Android** . **The best open-source Google Photos replacement** . **Best for self-hosting your photo library with AI features** .
-
-
-
-- **[PhotoPrism](https://github.com/photoprism/photoprism)**  
-
-  **AI-powered self-hosted photo management**, AGPL-3.0 licensed with **30,000+ GitHub stars** . **Automatic tagging, face recognition, geolocation, and search** . **Runs on your own server** . **The leading open-source photo management server** . **Best for self-hosted photo libraries** .
-
-
-
-- **[LibrePhotos](https://github.com/LibrePhotos/librephotos)**  
-
-  **Self-hosted Google Photos alternative**, MIT licensed . **AI-powered search, face recognition, and automatic tagging** . **The most feature-complete self-hosted alternative** after Immich and PhotoPrism .
-
-
-
-- **[Piwigo](https://github.com/Piwigo/Piwigo)**  
-
-  **Open-source photo gallery and management**, GPL-2.0 licensed . **Web-based with plugins and themes** . **The best open-source gallery for sharing** . **Best for photographers wanting a portfolio site** .
-
-
-
-- **[OpenSeadragon](https://github.com/openseadragon/openseadragon)**  
-
-  **High-resolution image viewer for the web**, BSD-3-Clause licensed . **Zoomable, deep-zoom images** . **The standard for museum/gallery image viewing** . **Best for high-resolution image display** .
-
-
-
-- **[gThumb](https://github.com/GNOME/gthumb)**  
-
-  **GNOME image viewer and organizer**, GPL-2.0 licensed . **Browse, edit, and organize images** . **The best GNOME-native photo manager** .
-
-
-
-- **[Geeqie](https://github.com/BestImageViewer/geeqie)**  
-
-  **Lightweight GTK image viewer**, GPL-2.0 licensed . **Fast browsing with basic metadata** . **Best for Linux users wanting a fast viewer** .
-
-
-
-- **[qView](https://github.com/jurplel/qView)**  
-
-  **Practical and minimal image viewer**, GPL-3.0 licensed . **Simple, fast, and cross-platform** . **Best for minimal, no-frills viewing** .
-
-
-
-- **[Feh](https://github.com/derf/feh)**  
-
-  **Fast, lightweight X11 image viewer**, MIT licensed . **Command-line driven with slideshow support** . **Best for terminal-based workflows** .
-
-
-
-- **[NSFW](https://github.com/nsfw/nsfw)**  
-
-  **Terminal image viewer** (not related to content filtering) . **Best for viewing images in terminal** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Gwenview** — KDE image viewer, GPL-2.0 licensed. **Best for KDE users** .
-
-- **Eye of GNOME (eog)** — GNOME image viewer, GPL-2.0 licensed. **Best for GNOME users** .
-
-- **Ristretto** — Xfce image viewer, GPL-2.0 licensed. **Best for Xfce users** .
-
-- **Mirage** — PyGTK image viewer, GPL-3.0 licensed. **Best for lightweight Linux viewing** .
-
-- **Shotwell** — GNOME photo manager, LGPL-2.1 licensed. **Best for GNOME photo organization** .
-
-- **F-Spot** — Legacy GNOME photo manager (unmaintained) .
-
-- **KPhotoAlbum** — KDE photo management, GPL-2.0 licensed. **Best for KDE photo organization** .
-
-- **Darktable** — RAW processor and photo workflow, GPL-3.0 licensed. **Best for RAW workflow** .
-
-- **RawTherapee** — RAW processor, GPL-3.0 licensed. **Best for RAW processing** .
-
-- **Rapid Photo Downloader** — Photo import tool, GPL-3.0 licensed. **Best for importing from cameras** .
-
-
-
-**Frameworks for building custom photo management solutions**: Combine **DigiKam** for the most comprehensive open-source photo management with RAW processing and face detection . Use **Immich** or **PhotoPrism** for self-hosted Google Photos alternatives with AI search . Choose **ImageGlass** for a modern Windows viewer . Use **Nomacs** for lightweight cross-platform viewing . Deploy **Piwigo** for web-based galleries . For RAW workflows, **Darktable** or **RawTherapee** complement DigiKam . Note that true commercial photo management with cloud sync, cross-device AI, and professional DAM (Lightroom, Google Photos) remains primarily commercial territory; open-source stacks provide strong local management, self-hosted AI, and RAW processing foundations that require integration for complete cloud workflows.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Photo management tools handle personal images that may contain sensitive content. **Cloud services (Google Photos, Apple Photos) upload images to external servers** — review privacy settings. Self-hosted solutions (Immich, PhotoPrism) keep images on your infrastructure .
-
-- **AI features may transmit images to external services** — face recognition and object detection can run locally or in the cloud. Verify processing location before uploading sensitive images.
-
-- **Some tools are freeware but not open-source** — IrfanView, FastStone, and XnView MP are free but proprietary . Verify licensing if open-source is required.
-
-- **RAW processing requires specific tools** — DigiKam, Darktable, and RawTherapee support RAW; basic viewers do not .
-
-- The open-source ecosystem provides strong local management, self-hosted AI, and RAW processing foundations, but **cloud sync, cross-device AI, and professional DAM** remain primarily commercial offerings.
-
-
+![Awesome Photo Viewer & Management Banner](assets/banner.svg)
 
 ---
 
+## 📑 Table of Contents
+- [📊 Market Overview & Industry Analysis](#-market-overview--industry-analysis)
+- [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚖️ Disclaimer & Privacy Notes](#-disclaimer--privacy-notes)
+- [⭐ Star History](#-star-history)
 
+---
 
-**Made for photographers, archivists, and users seeking photo management sovereignty.**  
+## 📊 Market Overview & Industry Analysis
 
-Let's make photo viewing and management more open, transparent, and accessible.
+> 📈 **Estimated Market Size**: The global Digital Asset Management (DAM) & Photo Management Software market is estimated at **$4.8 Billion** and is projected to reach **$10.2 Billion by 2030** (CAGR of ~11.5%).
+> 
+> 🧩 **Market Fragmentation**: The consumer cloud photo sector is **highly concentrated** (winner-take-all dynamics dominated by big-tech giants like Apple, Google, and Adobe), whereas the local desktop viewer, professional RAW processing, and self-hosted privacy-focused ecosystem remain **highly fragmented** with specialized open-source and independent solutions.
+
+---
+
+## 🏢 SaaS & Commercial Platforms
+
+Below is a curated comparison of major commercial photo viewing, cloud storage, and digital asset management platforms. The table is ordered by company revenue / valuation in descending order.
+
+| Platform | Enterprise / Company | Revenue / Valuation | Starting Paid Tier Price | Free Tier / Trial Limit | Key Features & Target Use Case |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 🪟 **[Windows Photos](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4)** | Microsoft ($MSFT) | ~$245 Billion Revenue | $6.99/mo (Microsoft 365 Personal) | Free forever (Pre-installed with Windows OS, 5GB OneDrive storage limit) | Built-in Windows photo viewer & editor with basic crop, filter, and cloud sync features. |
+| 🔍 **[Google Photos](https://photos.google.com/)** | Alphabet / Google ($GOOGL) | ~$307 Billion Revenue | $1.99/mo (Google One 100GB plan) | Free forever (15GB shared pool across Drive/Gmail/Photos) | AI-powered facial recognition, semantic search, automatic album creation, and mobile cloud backup. |
+| 🍎 **[Apple Photos](https://www.apple.com/ios/photos/)** | Apple Inc. ($AAPL) | ~$383 Billion Revenue | $0.99/mo (iCloud+ 50GB plan) | Free forever (5GB iCloud storage limit across Apple ecosystem) | Native macOS/iOS library management with Memories, Live Photos, iCloud sync, and hardware acceleration. |
+| 🎨 **[Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)** | Adobe Inc. ($ADBE) | ~$19.4 Billion Revenue | $9.99/mo (Lightroom 1TB Plan) | 7-day free trial (Full feature access during trial period) | Industry-standard non-destructive RAW processing, cloud cataloging, preset management, and pro color grading. |
+| 🗂️ **[ACDSee Photo Studio](https://www.acdsee.com/)** | ACD Systems | ~$25 Million Revenue | $8.99/mo or $149.99 one-time license | 30-day free trial (Full feature access with no credit card required) | Professional digital asset management (DAM), layer editing, batch file renamed, and RAW editing suite. |
+| 📷 **[Mylio Photos](https://www.mylio.com/)** | Mylio LLC | ~$10 Million Revenue | $9.99/mo or $99.99/year | Free forever (Mylio Photos Free tier allows basic local viewing & sync up to 3 devices) | Peer-to-peer cross-device photo library synchronization without mandatory cloud storage dependencies. |
+| 🚀 **[IrfanView](https://www.irfanview.com/)** | Irfan Skiljan | ~$2 Million Revenue | $12.00 one-time (Commercial use license) | Free forever (Non-commercial personal use, 100% full features without time limit) | Ultra-fast lightweight Windows viewer supporting 100+ file formats, batch image conversion, and plugins. |
+| ⚡ **[FastStone Image Viewer](https://www.faststone.org/)** | FastStone Soft | ~$1 Million Revenue | $34.95 one-time (Commercial license) | Free forever (Non-commercial personal & educational use, full feature access) | High-speed Windows image browser, converter, and editor with split-screen image comparison features. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Open-source photo viewers and self-hosted managers provide full data privacy, customizable workflows, and self-sovereignty. Below is a curated list of top open-source projects sorted by **GitHub Star Count** (descending).
+
+| Project Name | Stars | License | Key Features & Target Use Case |
+| :--- | :--- | :--- | :--- |
+| ⚡ **[Immich](https://github.com/immich-app/immich)** | [![Immich Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers) | AGPL-3.0 | High-performance self-hosted backup & management solution with facial recognition, object detection, and mobile apps (Google Photos alternative). |
+| 📸 **[PhotoPrism](https://github.com/photoprism/photoprism)** | [![PhotoPrism Stars](https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white)](https://github.com/photoprism/photoprism/stargazers) | AGPL-3.0 | AI-powered Web-based photo app for browsing, organizing, and sharing image collections powered by TensorFlow. |
+| 🖼️ **[ImageGlass](https://github.com/d2phap/ImageGlass)** | [![ImageGlass Stars](https://img.shields.io/github/stars/d2phap/ImageGlass?style=social&color=white)](https://github.com/d2phap/ImageGlass/stargazers) | GPL-3.0 | Lightweight, versatile open-source image viewer for Windows designed to replace default photo viewers with support for 80+ image formats. |
+| 🎯 **[Darktable](https://github.com/darktable-org/darktable)** | [![Darktable Stars](https://img.shields.io/github/stars/darktable-org/darktable?style=social&color=white)](https://github.com/darktable-org/darktable/stargazers) | GPL-3.0 | Professional open-source photography workflow application and RAW developer for Linux, macOS, and Windows (Adobe Lightroom open-source alternative). |
+| 🍃 **[LibrePhotos](https://github.com/LibrePhotos/librephotos)** | [![LibrePhotos Stars](https://img.shields.io/github/stars/LibrePhotos/librephotos?style=social&color=white)](https://github.com/LibrePhotos/librephotos/stargazers) | MIT | Self-hosted open-source photo management service with intelligent multi-vector face recognition, location timeline, and album generation. |
+| 🌟 **[Lychee](https://github.com/LycheeOrg/Lychee)** | [![Lychee Stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?style=social&color=white)](https://github.com/LycheeOrg/Lychee/stargazers) | MIT | Sleek and elegant self-hosted photo-management system running on PHP/Laravel for quick uploading, managing, and sharing photo galleries. |
+| 🌄 **[Photoview](https://github.com/photoview/photoview)** | [![Photoview Stars](https://img.shields.io/github/stars/photoview/photoview?style=social&color=white)](https://github.com/photoview/photoview/stargazers) | AGPL-3.0 | User-friendly self-hosted photo gallery aimed at photographers with RAW file support, facial recognition, and map coordinates integration. |
+| 🎨 **[RawTherapee](https://github.com/RawTherapee/RawTherapee)** | [![RawTherapee Stars](https://img.shields.io/github/stars/RawTherapee/RawTherapee?style=social&color=white)](https://github.com/RawTherapee/RawTherapee/stargazers) | GPL-3.0 | Advanced non-destructive 96-bit processing engine for RAW digital camera photographs with state-of-the-art demosaicing algorithms. |
+| 🌐 **[Piwigo](https://github.com/Piwigo/Piwigo)** | [![Piwigo Stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=social&color=white)](https://github.com/Piwigo/Piwigo/stargazers) | GPL-2.0 | Mature open-source web photo gallery software used by organizations, teams, and individual photographers worldwide. |
+| 🔍 **[OpenSeadragon](https://github.com/openseadragon/openseadragon)** | [![OpenSeadragon Stars](https://img.shields.io/github/stars/openseadragon/openseadragon?style=social&color=white)](https://github.com/openseadragon/openseadragon/stargazers) | BSD-3-Clause | An open-source, web-based canvas viewer for high-resolution smooth zoomable images with deep-zoom tile engine support. |
+| 🖥️ **[qView](https://github.com/jurplel/qView)** | [![qView Stars](https://img.shields.io/github/stars/jurplel/qView?style=social&color=white)](https://github.com/jurplel/qView/stargazers) | GPL-3.0 | Practical and minimal image viewer designed to be visually non-intrusive, space-efficient, and cross-platform (Qt-based). |
+| 💻 **[viu](https://github.com/atanunq/viu)** | [![viu Stars](https://img.shields.io/github/stars/atanunq/viu?style=social&color=white)](https://github.com/atanunq/viu/stargazers) | MIT | Terminal image viewer written in Rust using iTerm2 / Kitty graphics protocol or unicode blocks. |
+| 🔮 **[Nomacs](https://github.com/nomacs/nomacs)** | [![Nomacs Stars](https://img.shields.io/github/stars/nomacs/nomacs?style=social&color=white)](https://github.com/nomacs/nomacs/stargazers) | GPL-3.0 | Fast, lightweight cross-platform image viewer that handles RAW images, zip archives, and side-by-side synchronized view comparison. |
+| 🐧 **[feh](https://github.com/derf/feh)** | [![feh Stars](https://img.shields.io/github/stars/derf/feh?style=social&color=white)](https://github.com/derf/feh/stargazers) | MIT | Fast and light X11 image viewer targeted primarily at command line users with customizable keybindings and slideshow modes. |
+| 🚀 **[thumbsup](https://github.com/thumbsup/thumbsup)** | [![thumbsup Stars](https://img.shields.io/github/stars/thumbsup/thumbsup?style=social&color=white)](https://github.com/thumbsup/thumbsup/stargazers) | MIT | Static HTML photo & video gallery generator for self-hosting on AWS S3, GitHub Pages, or any static HTTP web server. |
+| 📁 **[DigiKam](https://github.com/KDE/digikam)** | [![DigiKam Stars](https://img.shields.io/github/stars/KDE/digikam?style=social&color=white)](https://github.com/KDE/digikam/stargazers) | GPL-2.0 | Professional open-source desktop photo management suite with SQLite/MySQL database support, geolocation, and LibRaw processing. |
+| 🖼️ **[Geeqie](https://github.com/BestImageViewer/geeqie)** | [![Geeqie Stars](https://img.shields.io/github/stars/BestImageViewer/geeqie?style=social&color=white)](https://github.com/BestImageViewer/geeqie/stargazers) | GPL-2.0 | Lightweight GTK-based image viewer and manager with EXIF metadata viewing, thumbnail caching, and external editor integration. |
+| 🦅 **[Shotwell](https://github.com/GNOME/shotwell)** | [![Shotwell Stars](https://img.shields.io/github/stars/GNOME/shotwell?style=social&color=white)](https://github.com/GNOME/shotwell/stargazers) | LGPL-2.1 | Default GNOME photo organizer and viewer supporting digital camera importing, event categorization, and publishing to web services. |
+| 🌟 **[gThumb](https://github.com/GNOME/gthumb)** | [![gThumb Stars](https://img.shields.io/github/stars/GNOME/gthumb?style=social&color=white)](https://github.com/GNOME/gthumb/stargazers) | GPL-2.0 | Feature-rich GNOME image browser and viewer supporting WebP/AVIF formats, catalog management, and seamless image manipulation. |
+| ⚡ **[Rapid Photo Downloader](https://github.com/damonlynch/rapid-photo-downloader)** | [![Rapid Photo Downloader Stars](https://img.shields.io/github/stars/damonlynch/rapid-photo-downloader?style=social&color=white)](https://github.com/damonlynch/rapid-photo-downloader/stargazers) | GPL-3.0 | Specialized tool built for professional photographers to import photos & videos concurrently from cameras, memory cards, and portable drives. |
+| 📱 **[Gwenview](https://github.com/KDE/gwenview)** | [![Gwenview Stars](https://img.shields.io/github/stars/KDE/gwenview?style=social&color=white)](https://github.com/KDE/gwenview/stargazers) | GPL-2.0 | Fast and simple image viewer for the KDE Plasma desktop with slideshow, rating system, and video playback features. |
+| 👁️ **[Eye of GNOME (eog)](https://github.com/GNOME/eog)** | [![eog Stars](https://img.shields.io/github/stars/GNOME/eog?style=social&color=white)](https://github.com/eog/stargazers) | GPL-2.0 | Official image viewer program for the GNOME desktop environment focusing on simplicity and standards compliance. |
+| 🏷️ **[KPhotoAlbum](https://github.com/KDE/kphotoalbum)** | [![KPhotoAlbum Stars](https://img.shields.io/github/stars/KDE/kphotoalbum?style=social&color=white)](https://github.com/KDE/kphotoalbum/stargazers) | GPL-2.0 | KDE photo management application specialized for tagging, grouping, and indexing large photo collections with SQL backend. |
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help us keep this curated list complete and up-to-date:
+
+1. **Fork** this repository.
+2. Add your suggested photo viewer, SaaS platform, or open-source software to `README.md`.
+3. Ensure open-source projects include star badges linked directly to their `/stargazers` page.
+4. Submit a **Pull Request** with a brief summary of the added project.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this repository helpful, please consider supporting the project! Your contributions help maintain and expand this curated ecosystem list.
+
+- ⭐️ **Star** this repository to give it visibility.
+- 🔀 **Fork** and share it with fellow photographers and developers.
+- ☕ **Buy me a coffee**: Support ongoing open-source development via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚖️ Disclaimer & Privacy Notes
+
+- **Community Curated**: This repository is a community-maintained curated list and is not affiliated with or endorsed by any software vendor listed.
+- **Data Privacy & Cloud Storage**: Commercial SaaS solutions (e.g., Google Photos, Apple Photos) process and index files on third-party servers. Check terms of service for privacy compliance.
+- **Self-Hosted Security**: Self-hosted solutions (Immich, PhotoPrism, LibrePhotos) guarantee data sovereignty; ensure reverse proxies and SSL encryption are configured securely.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.com/svg?repos=ishandutta2007/Awesome-Photo-Viewer-Management&type=date&legend=top-left)](https://star-history.com/#ishandutta2007/Awesome-Photo-Viewer-Management&type=date&legend=top-left)
+
+---
+
+<p align="center">
+<b>Made with ❤️ for photographers, archivists, open-source enthusiasts, and digital asset managers worldwide.</b>
+</p>
